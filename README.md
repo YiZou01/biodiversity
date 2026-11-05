@@ -66,4 +66,4 @@ R code used to classify the articles using the LLM.
 
 ## 6. `Prompt.R`
 
-The prompt used for LLM classification in `LMM analysis.R`.
+The prompt used for LLM classification in `LLM analysis.R`.
